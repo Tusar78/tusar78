@@ -22,7 +22,7 @@
 
 ## :fire: Streak Stats
 <p align="center">
-	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tusar78&theme=svelte" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusar78&theme=svelte" />
 </p>
 
 ## :mailbox: Reach me:
@@ -78,7 +78,7 @@ Software & Tools
 
 ## :bar_chart: GitHub Stats
 <p align="center">	
-	<img width="60%" src="https://github-readme-stats.vercel.app/api?username=Tusar78&show_icons=true&theme=vue" />
+	<img src="https://github-readme-stats.vercel.app/api?username=Tusar78&show_icons=true&theme=vue" />
 </p>
 
 ## 📈 Recent Gituhb Activity
