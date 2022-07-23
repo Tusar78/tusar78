@@ -74,18 +74,14 @@ Software & Tools
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-
-
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 ## :bar_chart: GitHub Stats
 <p align="center">	
 	<img width="60%" src="https://github-readme-stats.vercel.app/api?username=Tusar78&show_icons=true&theme=vue" />
 </p>
 
-## 👨🏻‍💻 Laptop in use & Favorite Terminal
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
-
-## 📈 Activity Graph
+## 📈 Recent Gituhb Activity
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=Tusar78&theme=minimal"/>
 </p>
@@ -96,7 +92,7 @@ Software & Tools
 </p>
 
 <p>
-         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tusar78&show_icons=true&locale=en&layout=compact" alt="Tusar78" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tusar78&show_icons=true&locale=en&layout=compact" alt="Tusar78" />
 </p> 
 <br />
 <br />
