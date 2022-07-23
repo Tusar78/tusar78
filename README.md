@@ -35,7 +35,7 @@
 
 ## :heart_eyes: Also available:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/tusar78)
-[![Devto](https://img.shields.io/badge/Devto-000000?style=for-the-badge&logo=Devto&logoColor=white)](https://dev.to/tusar78)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/tusar78)
 [![codesandbox](https://img.shields.io/badge/codesandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/dashboard/tusar78)
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10875758/tusar) 
 [![dribbble](https://img.shields.io/badge/dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/tus78ar) 
