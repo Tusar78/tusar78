@@ -91,13 +91,12 @@ Software & Tools
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusar78&theme=vue"/>
 </p>
 
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tusar78&show_icons=true&locale=en&layout=compact" alt="Tusar78" />
-</p> 
-<br />
-<br />
-
-## :trophy: Git profile Trophies
+## :trophy: GitHub Profile Trophies
 <p align="left"> 
          <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tusar78" alt="Tusar78" /></a> 
 </p>
+
+## :ok_hand: Most Used Languages.
+<p>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tusar78&show_icons=true&locale=en&layout=compact" alt="Tusar78" />
+</p> 
