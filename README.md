@@ -6,10 +6,13 @@
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Self-Learner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+
          
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tusar78&label=Profile views&color=blue&style=plastic&style=for-the-badge" alt="Tusar78" /> </p>
 
 # 💁‍♂️ About Me :
+<p>I'm Tusar, a frontend Developer from Bangladesh and Content Creator on Youtube. I spend most of my time coding, doing distinguished projects, or trying to learn new things.</p>
+
 - 😄 Pronouns: He/His
 - 🔭 I’m currently Working on [Innovation Teach](https://www.facebook.com/InnoTeach78).
 - 🌱 I’m currently learning about ReactJS.
@@ -22,7 +25,7 @@
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tusar78&theme=svelte" />
 </p>
 
-## 📫 Reach me:
+## :mailbox: Reach me:
 [![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tus78ar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Tusar78) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tus78ar/)
@@ -30,7 +33,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/innovation-teach) 
 [![Twitter](https://img.shields.io/twitter/follow/tusar78?logo=Twitter&style=for-the-badge)](https://twitter.com/tusar78)
 
-## 🤩 Also available:
+## :heart_eyes: Also available:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/tusar78)
 [![Devto](https://img.shields.io/badge/Devto-000000?style=for-the-badge&logo=Devto&logoColor=white)](https://dev.to/tusar78)
 [![codesandbox](https://img.shields.io/badge/codesandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/dashboard/tusar78)
@@ -65,6 +68,7 @@ Software & Tools
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 
 ## :bar_chart: GitHub Stats
