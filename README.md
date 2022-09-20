@@ -13,6 +13,10 @@
 # 💁‍♂️ About Me :
 <p>I'm Tusar, a frontend Developer from Bangladesh and Content Creator on Youtube. I spend most of my time coding, doing distinguished projects, or trying to learn new things.</p>
 
+<div>
+<a href="https://app.daily.dev/tusar78"><img align="right" src="https://github.com/tusar78/tusar78/blob/main/devcard.svg" width="200" alt="Tusar's Dev Card"/></a>
+</div>
+
 - 😄 Pronouns: He/His
 - 🔭 I’m currently Working on [Innovation Teach](https://www.facebook.com/InnoTeach78).
 - 🌱 I’m currently learning about ReactJS.
