@@ -94,7 +94,7 @@ Software & Tools
 
 ## 📈 Recent Gituhb Activity
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Tusar78&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=Tusar78&theme=minimal" />
 </p>
 
 ## 💳 Github Profile Summary Card
