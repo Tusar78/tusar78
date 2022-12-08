@@ -97,6 +97,9 @@ Software & Tools
 	<img src="https://activity-graph.herokuapp.com/graph?username=Tusar78&theme=minimal" />
 </p>
 
+[![Tusar github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tusar78)](https://github.com/tusar78/github-readme-activity-graph)
+
+
 ## 💳 Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusar78&theme=vue"/>
