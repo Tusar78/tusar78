@@ -25,8 +25,8 @@
 - 💬 Ask me about JavaScript.
 
 ## :fire: Streak Stats
-<p align="center" bg-color="#333">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusar78&theme=svelte" />
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusar78&theme=dark" />
 </p>
 
 ## :mailbox: Reach me:
