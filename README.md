@@ -94,17 +94,17 @@ Software & Tools
 </p>
 
 ## 📈 Recent Gituhb Activity
-[![Tusar github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tusar78&theme=minimal)](https://github.com/tusar78/github-readme-activity-graph)
+[![Tusar github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tusar78&theme=dark)](https://github.com/tusar78/github-readme-activity-graph)
 
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusar78&theme=dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusar78"/>
 </p>
 
 ## :trophy: GitHub Profile Trophies
 <p align="left"> 
-         <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tusar78&theme=dark" alt="Tusar78" /></a> 
+         <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tusar78" alt="Tusar78" /></a> 
 </p>
 
 ## :ok_hand: Most Used Languages.
