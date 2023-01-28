@@ -90,7 +90,7 @@ Software & Tools
 
 ## :bar_chart: GitHub Stats
 <p align="center">	
-	<img src="https://github-readme-stats.vercel.app/api?username=Tusar78&show_icons=true&theme=vue" />
+	<img src="https://github-readme-stats.vercel.app/api?username=Tusar78&show_icons=true&theme=dark" />
 </p>
 
 ## 📈 Recent Gituhb Activity
@@ -99,15 +99,15 @@ Software & Tools
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusar78&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusar78&theme=dark"/>
 </p>
 
 ## :trophy: GitHub Profile Trophies
 <p align="left"> 
-         <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tusar78" alt="Tusar78" /></a> 
+         <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tusar78&theme=dark" alt="Tusar78" /></a> 
 </p>
 
 ## :ok_hand: Most Used Languages.
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tusar78&show_icons=true&locale=en&layout=compact" alt="Tusar78" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tusar78&show_icons=true&locale=en&layout=compact&theme=dark" alt="Tusar78" />
 </p> 
