@@ -90,11 +90,11 @@ Software & Tools
 
 ## :bar_chart: GitHub Stats
 <p align="center">	
-	<img src="https://github-readme-stats.vercel.app/api?username=Tusar78&show_icons=true&theme=light" />
+	<img src="https://github-readme-stats.vercel.app/api?username=Tusar78&show_icons=true&theme=dark" />
 </p>
 
 ## 📈 Recent Gituhb Activity
-[![Tusar github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tusar78&theme=dark)](https://github.com/tusar78/github-readme-activity-graph)
+[![Tusar github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tusar78&theme=react-dark)](https://github.com/tusar78/github-readme-activity-graph)
 
 
 ## 💳 Github Profile Summary Card
