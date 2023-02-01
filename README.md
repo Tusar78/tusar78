@@ -90,7 +90,7 @@ Software & Tools
 
 ## :bar_chart: GitHub Stats
 <p align="center">	
-	<img src="https://github-readme-stats.vercel.app/api?username=Tusar78&show_icons=true&theme=dark" />
+	<img src="https://github-readme-stats.vercel.app/api?username=Tusar78&show_icons=true&theme=light" />
 </p>
 
 ## 📈 Recent Gituhb Activity
