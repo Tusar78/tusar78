@@ -100,12 +100,12 @@ Software & Tools
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusar78"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusar78&theme=dark"/>
 </p>
 
 ## :trophy: GitHub Profile Trophies
 <p align="left"> 
-         <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tusar78" alt="Tusar78" /></a> 
+         <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tusar78&theme=dark" alt="Tusar78" /></a> 
 </p>
 
 ## :ok_hand: Most Used Languages.
