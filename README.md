@@ -95,7 +95,7 @@ Software & Tools
 </p>
 
 ## 📈 Recent Gituhb Activity
-[![Tusar github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tusar78&theme=react-dark)](https://github.com/tusar78/github-readme-activity-graph)
+[![Tusar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tusar78&theme=react-dark)](https://github.com/Tusar78/github-readme-activity-graph)
 
 
 ## 💳 Github Profile Summary Card
