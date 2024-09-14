@@ -8,7 +8,7 @@
 </p>
 
          
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tusar78&label=Profile views&color=blue&style=plastic&style=for-the-badge" alt="Tusar78" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tusar78&style=for-the-badge&label=PROFILE+VIEWS" alt="Tusar78" /> </p>
 
 # 💁‍♂️ About Me :
 <p>I'm Tusar, a frontend Developer from Bangladesh and Content Creator on Youtube. I spend most of my time coding, doing distinguished projects, or trying to learn new things.</p>
@@ -19,7 +19,7 @@
 
 - 😄 Pronouns: He/His
 - 🔭 I’m currently Working on [Innovation Teach](https://www.facebook.com/InnoTeach78).
-- 🌱 I’m currently learning about ReactJS.
+- 🌱 I’m currently learning about Python.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/innovation-teach).
 - 🤝 I’m looking for help with Any kind of web devlopment project
 - 💬 Ask me about JavaScript.
@@ -53,6 +53,7 @@
 Programming Language
 -
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
